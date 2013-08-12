@@ -11,3 +11,6 @@ This Application will showcase the following features of Accelerometer APIs
 * Current Accelerometer Data
 * Accelerometer Monitoring
 * Register Shake Event
+
+# Supported platforms:
+iPhone, iPad, Android, Android tablet
