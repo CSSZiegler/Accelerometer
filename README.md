@@ -1,4 +1,4 @@
-SampleAccelerometer
+Accelerometer
 ===================
 
 Application to Showcase Accelerometer APIs
