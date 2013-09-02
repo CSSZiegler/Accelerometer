@@ -6,6 +6,12 @@
     <container type="form" id="frmAclmeter" displayname="Form"/>
     <container type="form" id="frmHome" displayname="Form"/>
     <container type="form" id="frmRegisterAccelerometer" displayname="Form"/>
+    <container type="dialog" id="hdrOne" displayname="Popup"/>
+    <container type="dialog" id="ftrOne" displayname="Popup"/>
+    <container type="form" id="frmAclMeter1" displayname="Form"/>
+    <container type="form" id="frmAclmeter" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmRegisterAccelerometer" displayname="Form"/>
     <globalsequences/>
     <skins/>
 </application>
