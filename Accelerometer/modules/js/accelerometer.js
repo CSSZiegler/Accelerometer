@@ -40,7 +40,8 @@
 								delete shakeCount;
 								frmRegisterAccelerometer.lblEvent3.text = "0";
 								frmAclmeter.show();
-							}else {
+							}
+							else {
 								frmRegisterAccelerometer.show();
 							}
 							}
