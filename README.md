@@ -3,7 +3,6 @@ Accelerometer
 
 Application to Showcase Accelerometer APIs
 
-Project Owner: Malla Nandikonda <Malla.Nandikonda@kony.com>
 
 # Purpose
 This Application will showcase the following features of Accelerometer APIs
@@ -13,4 +12,7 @@ This Application will showcase the following features of Accelerometer APIs
 * Register Shake Event
 
 # Supported platforms:
-iPhone, iPad, Android, Android tablet
+* iPhone
+* iPad
+* Android
+* Android tablet
