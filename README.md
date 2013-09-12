@@ -12,7 +12,10 @@ This Application will showcase the following features of Accelerometer APIs
 * Register Shake Event
 
 # Supported platforms:
-* iPhone
-* iPad
-* Android
-* Android tablet
+**Mobile**
+ * Android
+ * iPhone
+
+**Tablet** 
+ * Anroid
+ * iPad
