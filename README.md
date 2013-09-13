@@ -17,5 +17,5 @@ This Application will showcase the following features of Accelerometer APIs
  * iPhone
 
 **Tablet** 
- * Anroid
+ * Android
  * iPad
