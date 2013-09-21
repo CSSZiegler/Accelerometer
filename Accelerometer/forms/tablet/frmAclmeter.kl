@@ -648,7 +648,7 @@
         <win8TitleBarData>
             <backButtonSkin>Skin Defaults</backButtonSkin>
             <showBackButton>true</showBackButton>
-            <skinID>Skin Defaults</skinID>
+            <skinID>sknTitleBarSampleApp</skinID>
             <visible>true</visible>
         </win8TitleBarData>
         <android_orientation>2</android_orientation>
@@ -976,13 +976,13 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>0</left>
-                    <right>0</right>
-                    <top>0</top>
-                    <bottom>0</bottom>
+                    <left>6</left>
+                    <right>6</right>
+                    <top>6</top>
+                    <bottom>7</bottom>
                     <unit>%</unit>
                 </windows8>
-                <windows8_override>false</windows8_override>
+                <windows8_override>true</windows8_override>
                 <winmobile>
                     <left>8</left>
                     <right>8</right>
@@ -1202,7 +1202,7 @@
                 </spaipad>
                 <spaipad_override>false</spaipad_override>
                 <spatablet_android_override>false</spatablet_android_override>
-                <spatablet_windows_override>false</spatablet_windows_override>
+                <spatablet_windows_override>true</spatablet_windows_override>
                 <symbian>
                     <left>1</left>
                     <right>1</right>
@@ -1229,8 +1229,8 @@
                 <tabspaWindows>
                     <left>0</left>
                     <right>0</right>
-                    <top>0</top>
-                    <bottom>0</bottom>
+                    <top>2</top>
+                    <bottom>2</bottom>
                     <unit>%</unit>
                 </tabspaWindows>
                 <thinclient>
@@ -1245,11 +1245,11 @@
                 <windows8>
                     <left>0</left>
                     <right>0</right>
-                    <top>0</top>
-                    <bottom>0</bottom>
+                    <top>2</top>
+                    <bottom>2</bottom>
                     <unit>%</unit>
                 </windows8>
-                <windows8_override>false</windows8_override>
+                <windows8_override>true</windows8_override>
                 <winmobile>
                     <left>2</left>
                     <right>2</right>
@@ -1440,6 +1440,7 @@
             <bb_content_align>1</bb_content_align>
             <bb_display_text>true</bb_display_text>
             <j2me_content_align>1</j2me_content_align>
+            <c_ToolTip></c_ToolTip>
             <tooltip></tooltip>
             <android_display_text>true</android_display_text>
             <android_pressed_skin>Skin Defaults</android_pressed_skin>
@@ -1701,13 +1702,13 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>0</left>
-                    <right>0</right>
+                    <left>6</left>
+                    <right>6</right>
                     <top>0</top>
-                    <bottom>0</bottom>
+                    <bottom>7</bottom>
                     <unit>%</unit>
                 </windows8>
-                <windows8_override>false</windows8_override>
+                <windows8_override>true</windows8_override>
                 <winmobile>
                     <left>8</left>
                     <right>8</right>
@@ -1927,7 +1928,7 @@
                 </spaipad>
                 <spaipad_override>false</spaipad_override>
                 <spatablet_android_override>false</spatablet_android_override>
-                <spatablet_windows_override>false</spatablet_windows_override>
+                <spatablet_windows_override>true</spatablet_windows_override>
                 <symbian>
                     <left>1</left>
                     <right>1</right>
@@ -1970,11 +1971,11 @@
                 <windows8>
                     <left>0</left>
                     <right>0</right>
-                    <top>0</top>
-                    <bottom>0</bottom>
+                    <top>2</top>
+                    <bottom>2</bottom>
                     <unit>%</unit>
                 </windows8>
-                <windows8_override>false</windows8_override>
+                <windows8_override>true</windows8_override>
                 <winmobile>
                     <left>2</left>
                     <right>2</right>
@@ -2165,6 +2166,7 @@
             <bb_content_align>1</bb_content_align>
             <bb_display_text>true</bb_display_text>
             <j2me_content_align>1</j2me_content_align>
+            <c_ToolTip></c_ToolTip>
             <tooltip></tooltip>
             <android_display_text>true</android_display_text>
             <android_pressed_skin>Skin Defaults</android_pressed_skin>
@@ -2426,13 +2428,13 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>0</left>
-                    <right>0</right>
+                    <left>6</left>
+                    <right>6</right>
                     <top>0</top>
-                    <bottom>0</bottom>
+                    <bottom>7</bottom>
                     <unit>%</unit>
                 </windows8>
-                <windows8_override>false</windows8_override>
+                <windows8_override>true</windows8_override>
                 <winmobile>
                     <left>8</left>
                     <right>8</right>
@@ -2652,7 +2654,7 @@
                 </spaipad>
                 <spaipad_override>false</spaipad_override>
                 <spatablet_android_override>false</spatablet_android_override>
-                <spatablet_windows_override>false</spatablet_windows_override>
+                <spatablet_windows_override>true</spatablet_windows_override>
                 <symbian>
                     <left>1</left>
                     <right>1</right>
@@ -2695,11 +2697,11 @@
                 <windows8>
                     <left>0</left>
                     <right>0</right>
-                    <top>0</top>
-                    <bottom>0</bottom>
+                    <top>2</top>
+                    <bottom>2</bottom>
                     <unit>%</unit>
                 </windows8>
-                <windows8_override>false</windows8_override>
+                <windows8_override>true</windows8_override>
                 <winmobile>
                     <left>2</left>
                     <right>2</right>
@@ -2882,6 +2884,7 @@
             <bb_content_align>1</bb_content_align>
             <bb_display_text>true</bb_display_text>
             <j2me_content_align>1</j2me_content_align>
+            <c_ToolTip></c_ToolTip>
             <tooltip></tooltip>
             <android_display_text>true</android_display_text>
             <android_pressed_skin>Skin Defaults</android_pressed_skin>
@@ -2934,6 +2937,7 @@
         <overrideProperties>KForm.bbTitleBar</overrideProperties>
         <overrideProperties>KForm.ipadtitleBar</overrideProperties>
         <overrideProperties>KForm.iphonetitleBar</overrideProperties>
+        <overrideProperties>KForm.win8titleBar</overrideProperties>
         <winphone8_intransition>Default</winphone8_intransition>
         <winphone8_outtransition>Default</winphone8_outtransition>
         <winphone8_intransitionmode>Default</winphone8_intransitionmode>

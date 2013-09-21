@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<application name="Accelerometer" id="Accelerometer">
-    <container type="dialog" id="hdrOne" displayname="Popup"/>
-    <container type="dialog" id="ftrOne" displayname="Popup"/>
-    <container type="form" id="frmAclMeter1" displayname="Form"/>
-    <container type="form" id="frmAclmeter" displayname="Form"/>
-    <container type="form" id="frmHome" displayname="Form"/>
-    <container type="form" id="frmRegisterAccelerometer" displayname="Form"/>
-    <container type="dialog" id="hdrOne" displayname="Popup"/>
-    <container type="dialog" id="ftrOne" displayname="Popup"/>
-    <container type="form" id="frmAclMeter1" displayname="Form"/>
-    <container type="form" id="frmAclmeter" displayname="Form"/>
-    <container type="form" id="frmHome" displayname="Form"/>
-    <container type="form" id="frmRegisterAccelerometer" displayname="Form"/>
+<application id="Accelerometer" name="Accelerometer">
+    <container displayname="Popup" id="hdrOne" type="dialog"/>
+    <container displayname="Popup" id="ftrOne" type="dialog"/>
+    <container displayname="Form" id="frmAclMeter1" type="form"/>
+    <container displayname="Form" id="frmAclmeter" type="form"/>
+    <container displayname="Form" id="frmHome" type="form"/>
+    <container displayname="Form" id="frmRegisterAccelerometer" type="form"/>
+    <container displayname="Popup" id="hdrOne" type="dialog"/>
+    <container displayname="Popup" id="ftrOne" type="dialog"/>
+    <container displayname="Form" id="frmAclMeter1" type="form"/>
+    <container displayname="Form" id="frmAclmeter" type="form"/>
+    <container displayname="Form" id="frmHome" type="form"/>
+    <container displayname="Form" id="frmRegisterAccelerometer" type="form"/>
     <globalsequences/>
     <skins/>
 </application>
