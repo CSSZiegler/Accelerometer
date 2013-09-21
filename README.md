@@ -15,6 +15,8 @@ This Application will showcase the following features of Accelerometer APIs
 **Mobile**
  * Android
  * iPhone
+ * windows phone 7.5
+ * windows phone 8
 
 **Tablet** 
  * Android
