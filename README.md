@@ -21,3 +21,4 @@ This Application will showcase the following features of Accelerometer APIs
 **Tablet** 
  * Android
  * iPad
+ * Windows8
