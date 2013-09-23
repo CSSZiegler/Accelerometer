@@ -976,8 +976,8 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>6</left>
-                    <right>6</right>
+                    <left>12</left>
+                    <right>30</right>
                     <top>6</top>
                     <bottom>7</bottom>
                     <unit>%</unit>
@@ -1702,8 +1702,8 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>6</left>
-                    <right>6</right>
+                    <left>12</left>
+                    <right>30</right>
                     <top>0</top>
                     <bottom>7</bottom>
                     <unit>%</unit>
@@ -2428,8 +2428,8 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>6</left>
-                    <right>6</right>
+                    <left>12</left>
+                    <right>30</right>
                     <top>0</top>
                     <bottom>7</bottom>
                     <unit>%</unit>

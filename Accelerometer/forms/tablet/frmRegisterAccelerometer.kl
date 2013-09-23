@@ -2951,8 +2951,8 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>6</left>
-                    <right>6</right>
+                    <left>8</left>
+                    <right>40</right>
                     <top>15</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
