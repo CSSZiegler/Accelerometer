@@ -1314,7 +1314,7 @@
     <skin>
         <att name="Name" value="hbxBlueBG" type="String"/>
         <att name="WidgetType" value="HBox" type="String"/>
-        <att name="Bg_type" value="0" type="int"/>
+        <att name="Bg_type" value="3" type="int"/>
         <att name="Background_color" value="10,27,54" type="RGB"/>
         <att name="Rightbackground_color" value="255,255,255" type="RGB"/>
         <att name="Bg_gradient_style" value="0" type="int"/>
